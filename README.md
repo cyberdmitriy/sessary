@@ -1,5 +1,5 @@
 <!--
-  Source of truth for the PUBLIC repo (nortmas/sessary) README.
+  Source of truth for the PUBLIC repo (cyberdmitriy/sessary) README.
   Lives in the private source repo under landing/ and is published to the public
   repo by .github/workflows/deploy-landing.yml, alongside the landing page.
   Image paths (assets/*) resolve against the public repo root after deploy.
@@ -13,12 +13,12 @@
 
 **Your Claude Code sessions, out of the terminal and into view.**
 
-[![Latest release](https://img.shields.io/github/v/release/nortmas/sessary?color=7b9ec8&label=release)](https://github.com/nortmas/sessary/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/nortmas/sessary/total?color=5b8c5a&label=downloads)](https://github.com/nortmas/sessary/releases)
+[![Latest release](https://img.shields.io/github/v/release/cyberdmitriy/sessary?color=7b9ec8&label=release)](https://github.com/cyberdmitriy/sessary/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/cyberdmitriy/sessary/total?color=5b8c5a&label=downloads)](https://github.com/cyberdmitriy/sessary/releases)
 ![Platform](https://img.shields.io/badge/macOS-10.12%2B-lightgrey)
 ![Price](https://img.shields.io/badge/price-free-brightgreen)
 
-[**Website**](https://nortmas.github.io/sessary/) · [**Download for macOS**](https://github.com/nortmas/sessary/releases/latest/download/Sessary.dmg) · [**Releases**](https://github.com/nortmas/sessary/releases/latest)
+[**Website**](https://cyberdmitriy.github.io/sessary/) · [**Download for macOS**](https://github.com/cyberdmitriy/sessary/releases/latest/download/Sessary.dmg) · [**Releases**](https://github.com/cyberdmitriy/sessary/releases/latest)
 
 </div>
 
@@ -59,9 +59,9 @@ all stays on your Mac.
 
 ## Download
 
-Get the latest build from **[Releases](https://github.com/nortmas/sessary/releases/latest)**:
+Get the latest build from **[Releases](https://github.com/cyberdmitriy/sessary/releases/latest)**:
 
-**→ [Download Sessary.dmg](https://github.com/nortmas/sessary/releases/latest/download/Sessary.dmg)**
+**→ [Download Sessary.dmg](https://github.com/cyberdmitriy/sessary/releases/latest/download/Sessary.dmg)**
 
 Then drag **Sessary** into your Applications folder.
 
@@ -91,5 +91,5 @@ names, no content).
 ---
 
 <div align="center">
-  <sub>Sessary — a session manager for Claude Code · <a href="https://nortmas.github.io/sessary/">nortmas.github.io/sessary</a></sub>
+  <sub>Sessary — a session manager for Claude Code · <a href="https://cyberdmitriy.github.io/sessary/">cyberdmitriy.github.io/sessary</a></sub>
 </div>
